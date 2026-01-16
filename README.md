@@ -38,6 +38,7 @@ This repository brings together datasets, papers, tutorials, benchmarks, and pra
 
 ## Paper
 
+- ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation [[Paper]](https://arxiv.org/pdf/2502.13581)
 - ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce [[Paper]](https://arxiv.org/pdf/2512.02555)
 - Align$^3$GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation [[Paper]](https://arxiv.org/pdf/2511.11255)
 - Climber: Toward Efficient Scaling Laws for Large Recommendation Models [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761561)
