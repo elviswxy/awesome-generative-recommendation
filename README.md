@@ -92,7 +92,6 @@ This repository brings together datasets, papers, tutorials, benchmarks, and pra
 * Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization [[Paper]](https://arxiv.org/pdf/2505.13894)
 * Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations [[Paper]](https://www.google.com/search?q=https://arxiv.org/pdf/2402.17152)
 * ESANS: Effective and Semantic-Aware Negative Sampling for Large-Scale Retrieval Systems [[Paper]](https://www.google.com/search?q=https://dl.acm.org/doi/pdf/10.1145/3696410.3714600)
-* Validating LLM-as-a-Judge Systems under Rating Indeterminacy [[Paper]](https://arxiv.org/pdf/2503.05965)
 * Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation [[Paper]](https://www.google.com/search?q=https://arxiv.org/pdf/2311.09049)
 
 ---
