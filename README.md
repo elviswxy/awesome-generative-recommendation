@@ -65,6 +65,7 @@ This repository brings together datasets, papers, tutorials, benchmarks, and pra
 * Generative Recommendation with Semantic IDs: A Practitioner’s Handbook [[Paper]](https://www.google.com/search?q=https://arxiv.org/pdf/2507.22224)
 * Semantic IDs for Joint Generative Search and Recommendation [[Paper]](https://www.google.com/search?q=https://arxiv.org/pdf/2508.10478)
 * Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders [[Paper]](https://www.google.com/search?q=https://arxiv.org/pdf/2210.12316)
+* Generative Recommender with End-to-End Learnable Item Tokenization [[SIGIR 2025]]() [[Paper]](https://arxiv.org/abs/2409.05546) [[Github]](https://github.com/RUCAIBox/ETEGRec)
 
 ### Generative Retrieval & Search
 
