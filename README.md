@@ -314,6 +314,12 @@ It does **not** treat the following as the same thing:
 
 ## Optimization Adapters and Other Directions
 
+The following adjacent bridge papers are not core `semantic ID + generative decoding` papers, but they are increasingly important for understanding where the route may evolve next:
+
+- from `item token` modeling,
+- to `feature-token unified backbones`,
+- and potentially toward richer `sample-level token` hypotheses.
+
 - **RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation** [[Paper]](https://arxiv.org/abs/2603.28124) — Source: arXiv | Published: 2026-03-30
   - Focuses on sparse conversion supervision rather than only click- or next-item-heavy objectives.
 - **Awakening Dormant Users: Generative Recommendation with Counterfactual Functional Role Reasoning** [[Paper]](https://arxiv.org/abs/2602.13134) — Source: arXiv | Published: 2026-02-13
@@ -336,6 +342,12 @@ It does **not** treat the following as the same thing:
   - Injects collaborative semantics into LLM-style recommenders to better align language modeling with recommendation behavior.
 - **One Model, Two Markets: Bid-Aware Generative Recommendation** [[Paper]](https://arxiv.org/abs/2603.22231) — Source: arXiv | Published: 2026-03-23
   - Uses bid-aware control signals to jointly model commercial relevance and monetization objectives in generative recommendation.
+- **OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender** [[Paper]](https://arxiv.org/abs/2510.26104) — Source: arXiv | Published: 2025-10-30
+  - An important bridge paper showing that sequential tokens and non-sequential feature tokens can be unified into one industrial backbone with online GMV gains.
+- **HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction** [[Paper]](https://arxiv.org/abs/2601.12681) — Source: arXiv | Published: 2026-01-19
+  - Refines the unified-backbone idea by arguing that not all tokens should interact symmetrically, using Global Tokens as a more controlled interface.
+- **TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds** [[Paper]](https://arxiv.org/abs/2604.13737) — Source: arXiv | Published: 2026-04-15
+  - A new 2026 warning that naive feature-sequence unification can cause Sequential Collapse Propagation, making it a key paper for understanding the limits of full token unification.
 
 ## 2026 Highlights
 
